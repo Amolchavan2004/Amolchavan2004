@@ -1,5 +1,10 @@
 # 💫 About Me:
-aspiring data analysis
+👋 Hi! I’m Amol Chavan,
+
+An aspiring Data Analyst passionate about transforming raw datasets into meaningful insights using SQL, Python, Power BI, and statistics.  
+I love working on real-world projects, analyzing trends, building dashboards, and delivering data-driven solutions.
+Currently learning advanced analytics and building hands-on projects to strengthen my portfolio.
+
 
 ---
 ## 🌐 Socials:
